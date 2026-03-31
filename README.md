@@ -1,4 +1,4 @@
-# PawPal+ (Module 2 Project)
+# PawPal+ (Project 2)
 
 **PawPal+** is a Streamlit web app that helps a busy pet owner track care tasks and generate a daily schedule for their pets. The backend logic is written in pure Python, with a clean separation between the data model, scheduling algorithm, and UI.
 
